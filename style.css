@@ -1,0 +1,18 @@
+@charset "utf-8";
+.word{
+    color: #E82300;
+}
+.box{
+    border: solid 1px #000;
+    background: #004175;
+    color: #8EC220;
+}
+h3{
+    color: #A60321;
+    background: #F2BE5C;
+    padding: 0.5em;
+    text-align: center;
+}
+.fruit{
+    width: 100vw;
+}
